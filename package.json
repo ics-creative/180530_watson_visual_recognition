@@ -1,0 +1,11 @@
+{
+  "scripts": {
+    "exec": "node src/index.js",
+    "training": "node src/training.js"
+  },
+  "dependencies": {
+    "watson-developer-cloud": "^3.4.2"
+  },
+  "license": "MIT",
+  "private": true
+}
